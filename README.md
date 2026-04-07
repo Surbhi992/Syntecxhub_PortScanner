@@ -37,4 +37,4 @@ Open Ports: [22, 80]
 Result saved  in scan_result.txt
 ```
 ## Screenshot 
-![output](screenshot.png)
+![output](screenshot.png.jpeg)
